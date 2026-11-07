@@ -11,7 +11,7 @@ WeFly Laptop Battery Compatible for A1322 A1278 MacBook Pro 13 inch 13" Mid 2012
 
 ## Charger
 
-LAPCARE 60W Magnetic Magsafe1 Laptop Adapter Charger, L Shape Pin, Compatible Adapter for Mac/Book Pro 13/15 Inch (2008-2013), Model A1181, A1278, A1286, A1342 & Others 
+LAPCARE 60W Magnetic Magsafe1 Laptop Adapter Charger, L Shape Pin, Compatible Adapter for Mac/Book Pro 13/15 Inch (2008-2013), Model A1181, A1278, A1286, A1342 & Others
 
 - Link: https://www.amazon.in/gp/product/B0DP2LSPZ8?smid=AJ6SIZC8YQDZX&psc=1
 - Price: 1398
@@ -29,7 +29,7 @@ Acer SA100 240GB SATA III 2.5 Inch Internal SSD - 6 Gb/s, 3D NAND Solid State Ha
 
 ## Caddy
 
-Wefly 2nd HDD SSD Hard Drive Caddy Replacement for MacBook Pro 13/15/17" A1278 A1286 A1297 2008 2009 2010 2011 2012 Internal Laptop CD/DVD-ROM Optical SuperDrive Adapter to 2.5" 9.5mm 
+Wefly 2nd HDD SSD Hard Drive Caddy Replacement for MacBook Pro 13/15/17" A1278 A1286 A1297 2008 2009 2010 2011 2012 Internal Laptop CD/DVD-ROM Optical SuperDrive Adapter to 2.5" 9.5mm
 
 - Link: https://www.amazon.in/gp/product/B0C24GPT4V?smid=ADAID61EQ9GOB&psc=1
 - Price: 218
@@ -44,18 +44,28 @@ Wefly 2nd HDD SSD Hard Drive Caddy Replacement for MacBook Pro 13/15/17" A1278 A
 
 Price: 3528
 
-| Item    | Date  |
-|---------|-------|
-| Charger | 07/11 |
-| Battery | 12/11 |
-| Caddy   | 12/11 |
+| Item    | Delivery Date |
+| ------- | ------------- |
+| Charger | 07/11         |
+| Battery | 12/11         |
+| Caddy   | 12/11         |
 
 ## Paid
 
 Price: 4204
 
-| Item | Date  |
-|------|-------|
-| SSD  | 07/11 |
+| Item | Delivery Date   |
+| ---- | --------------- |
+| SSD  | ~~07/11~~ 13/11 |
 
 Total: 7732
+
+---
+
+# Status Updates
+
+## Sat Nov 7 14:16:51 IST 2026
+
+- By mistake, the order for the SSD had the address set to my Nani's house which is ~200 kms away
+  - Refund will be issued in 3-4 days
+- Cancelled that and placed another order with the correct address right now
